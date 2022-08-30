@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-The use of semantic elements helps determine the context of the web page
+The use of semantic elements helps determine the context of the web page.
 People with disabilities are able to access the information of a photo or graphic that they cannot see.
 A specific and descriptive name for the title helps define the content of the web page.
 
